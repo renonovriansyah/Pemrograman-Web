@@ -1,6 +1,6 @@
 /* Menggunakan variabel untuk mempermudah perubahan global */
 :root {
-    --welcome-bg-color: #90a8f1; /* Warna latar belakang untuk welcome-section */
+    --welcome-bg-color: #e2e3e5; /* Warna latar belakang untuk welcome-section */
     --primary-btn-bg-color: #981f1f; /* Warna tombol primary */
     --primary-btn-hover-bg-color: #9b4e4e; /* Warna tombol primary saat hover */
     --btn-border-color: #981f1f; /* Warna border untuk tombol */

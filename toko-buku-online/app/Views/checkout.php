@@ -19,7 +19,8 @@
 
     <div class="mt-5">
         <form action="<?=base_url('submit')?>" method="POST">
-        <a href="<?= base_url('submit') ?>" class="btn btn-success">Submit Order</a>
+        <button type="submit" class="btn btn-success">Submit Order</button>
+        <a href="<?= base_url('submit') ?>"></a>
         </form>
     </div>
 </div>
